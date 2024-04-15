@@ -1,0 +1,18 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\ide",
+    "\\ide\\vs2017",
+    "\\ide\\vs2019",
+    "\\ide\\vs2022",
+    "\\src"
+  ],
+  "SelectedNode": "\\ide\\vs2017\\mimalloc.sln",
+  "PreviewInSolutionExplorer": false
+}
